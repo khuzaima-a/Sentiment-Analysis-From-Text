@@ -4,12 +4,12 @@ Sentiment Analysis from Text is a Python-based machine learning project that pre
 To optimize the program's speed and make predictions faster, the trained models were saved in .pkl (pickle) files. This way, the program no longer needs to recompile the models for every prediction, resulting in significantly reduced prediction time.
 
 # Skills Used
-+Python
-+Scikit-Learn
-+Machine Learning
-+Data Cleaning and Preprocessing
-+Hyperparameter Tuning
-+Model Serialization (Pickle)
++ Python
++ Scikit-Learn
++ Machine Learning
++ Data Cleaning and Preprocessing
++ Hyperparameter Tuning
++ Model Serialization (Pickle)
 
 # Difficulties
 ### Data Cleaning
