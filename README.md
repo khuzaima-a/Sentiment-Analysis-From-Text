@@ -1,5 +1,5 @@
 # Sentiment-Analysis-From-Text
-Sentiment Analysis from Text is a Python-based machine learning project that predicts the sentiment of textual messages using two powerful algorithms - Logistic Regression and Naive Bayes. The project aims to provide valuable insights into the emotional tone of messages. It finds applications in social media sentiment tracking, customer feedback analysis, and more.
+Sentiment Analysis from Text is a Python-based machine learning project that predicts the sentiment of textual messages using two powerful algorithms - Logistic Regression and Naive Bayes. The project aims to provide valuable insights into the tone of messages. It finds applications in social media sentiment tracking, customer feedback analysis, and more.
 
 To optimize the program's speed and make predictions faster, the trained models were saved in .pkl (pickle) files. This way, the program no longer needs to recompile the models for every prediction, resulting in significantly reduced prediction time.
 
